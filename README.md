@@ -1,13 +1,9 @@
-# 👨‍💻 About Me
+# About Me
 
-🎓 I am a dedicated and ambitious dual degree student at Western University, specializing in the exciting fields of Mechatronics Engineering and Computer Science. My passion for technology, particularly software development, fuels my drive to constantly push boundaries and seek new challenges.
+I am a dual degree student at Western University, specializing in Mechatronics Engineering and Computer Science. My passion for technology, particularly software development, drives me to constantly seek new challenges and opportunities for growth.
 
-🚀 My ultimate goal? To leverage technology to make a positive impact on people's lives. To this end, I am actively seeking internships or co-op opportunities that will allow me to gain hands-on experience in the industry and further hone my skills.
+I am actively pursuing internships or co-op opportunities to gain hands-on industry experience and further develop my skills. I have a strong foundation in programming languages such as Python, JavaScript, Java, and C/C++, along with practical experience using tools like Git and Linux.
 
-💻 I bring to the table a strong technical skill set, with proficiency in programming languages such as Python, JavaScript, Java, and C/C++. I also have hands-on experience with essential software development tools like Git and Linux.
+Beyond technical skills, I value collaboration and community. I am always open to connecting with others in the tech space—whether for potential project collaborations or discussions about technology. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ameenalasady/).
 
-🌐 Beyond technical skills, I believe in the power of collaboration and community. I am always open to connecting with others in the tech community. So whether it's a potential project collaboration or just a chat about the latest tech trends, feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/ameenalasady/).
-
-🔭 I am always on the lookout for opportunities to learn new technologies and skills. I welcome feedback and suggestions with open arms as they are invaluable for my growth.
-
-🌟 Lastly, I invite you to take a look at my projects on GitHub. Your thoughts and feedback are most welcome as they help me improve. Together, let's code, create, and innovate!
+I am committed to continuous learning and always welcome feedback on my projects. Please feel free to explore my work on GitHub—I'd appreciate any insights you may have.
